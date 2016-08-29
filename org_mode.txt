@@ -1,0 +1,28 @@
+* Org mode  
+-----------------------------------------
+** Alt+enter for star
+
+
+** Shift+right for TODO and DONE 
+*** TODO 
+*** DONE 
+
+** Move points : alt + up and down arrow 
+ 
+** Checkboxes : - [] blah  --> alt + enter  
+
+*** ctr + c ctr + c to mark check 
+
+** Tables 
+   DEADLINE: <2016-04-01 Fri>
+Create table b 
+   | heading | heading |
+   |---------+---------|
+   | tab     | tab     |
+   | tab     | tab     |
+   | sdf     | sadf    |
+   | sdf     | sdf     |
+
+** Move the entries to by alt up down etc.
+
+  
