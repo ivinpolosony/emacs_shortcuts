@@ -27,4 +27,14 @@ Create table b
 
 ** To create source code 
    Use <s and tab to create Begin source.
-   
+
+** You can specify source code language   
+   BEGIN_SRC java
+   #+BEGIN_SRC c++
+   #include <iostream>
+   int main(){
+    return 0;
+   }
+   #+END_SRC 
+
+*** You can also run code using C-c C-c within the source code.
