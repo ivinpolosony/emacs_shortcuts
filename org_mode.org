@@ -25,4 +25,6 @@ Create table b
 
 ** Move the entries to by alt up down etc.
 
-  
+** To create source code 
+   Use <s and tab to create Begin source.
+   
